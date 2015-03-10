@@ -1,0 +1,16 @@
+{
+  "installed_packages":
+  [
+    "Alignment",
+    "BracketHighlighter",
+    "GitGutter",
+    "JSHint",
+    "JSHint Gutter",
+    "LaTeXTools",
+    "Ludum Dare Countdown",
+    "Package Control",
+    "Predawn",
+    "SideBarEnhancements",
+    "TodoReview"
+  ]
+}
